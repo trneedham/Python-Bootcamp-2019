@@ -7,5 +7,7 @@ The course is designed for graduate students and postdocs in quantitative fields
 For the first two weeks, the main course material will be contained in Jupyter notebooks. These are written by me, but will borrow heavily from material created by other people involved in the bootcamp:
 
 James Carlson https://github.com/jxxcarlson
+
 Jim Fowler https://github.com/kisonecat
+
 Matthew Osborne https://github.com/matthewosborne71
